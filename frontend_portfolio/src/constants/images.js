@@ -33,11 +33,8 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
 import sanchia from '../assets/sanchia.png';
-import sanchia_profile from '../assets/sanchia_profile.png';
 import sanchia_prof from '../assets/sanchia_prof.jpg';
 
 import adidas from '../assets/adidas.png';
@@ -78,16 +75,13 @@ export default {
   about02,
   about03,
   about04,
-  profile,
   circle,
-  logo,
   adidas,
   amazon,
   asus,
   bolt,
   nb,
   sanchia,
-  sanchia_profile,
   sanchia_prof,
   skype,
   spotify,
